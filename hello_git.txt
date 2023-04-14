@@ -1,1 +1,2 @@
 Hello Codestates!
+Git is good.
